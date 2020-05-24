@@ -1,6 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-To start project 
-### `npm start`
-
-
+To start the project: npm start
